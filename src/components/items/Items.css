@@ -1,0 +1,7 @@
+.tran-table{
+    margin-top:50px;
+}
+.tran-table .table.table-bordered tbody tr {
+    text-align: center;
+    font-size: 14px;
+}

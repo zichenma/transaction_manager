@@ -1,0 +1,5 @@
+.filter {
+    display: grid;
+    grid-template-columns: 10% 40% 10% 40%;
+    margin-top:20px;
+}

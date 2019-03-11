@@ -1,0 +1,15 @@
+.app {
+    margin: 5% 10%;
+}
+/* .app-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+.app-content {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-column-gap: 1%;
+  
+}
+

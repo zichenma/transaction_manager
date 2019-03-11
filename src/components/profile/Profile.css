@@ -1,0 +1,24 @@
+.panel.panel-default{
+    width: 200px;
+    height: 200px;
+}
+.panel-heading {
+    height: 50px;
+}
+.panel-body {
+    text-align: center;
+}
+.panel-body img {
+    z-index: 10;
+    width: 100px;
+    height: 100px;
+    margin-top: -40px;
+}
+
+.panel-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+

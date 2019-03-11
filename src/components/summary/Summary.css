@@ -1,0 +1,16 @@
+.summary table{
+    text-align: center;
+}
+
+.summary table tr th{
+    font-weight: normal;
+    text-align: center;
+    font-size: 18px;
+    color: gray;
+}
+
+.summary table tr td{
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}
